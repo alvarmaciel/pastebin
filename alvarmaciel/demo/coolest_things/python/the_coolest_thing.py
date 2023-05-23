@@ -1,1 +1,0 @@
-https://github.com/alvarmaciel/pastebin/blob/main/alvarmaciel/pincESaJFWQ.txt
