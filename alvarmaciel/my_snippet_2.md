@@ -1,0 +1,1 @@
+https://github.com/alvarmaciel/pastebin/blob/main/alvarmaciel/demo/coolest_things/python/the_coolest_thing.py
