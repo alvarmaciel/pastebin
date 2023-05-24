@@ -1,1 +1,2 @@
-https://github.com/alvarmaciel/pastebin/blob/main/alvarmaciel/WAohsJ77KJo.txt
+shbin_usage.sh $ echo some new content[0m
+some new content
