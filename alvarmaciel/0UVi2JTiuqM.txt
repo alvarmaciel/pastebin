@@ -1,2 +1,0 @@
-shbin_usage.sh $ echo some awesome thing[0m
-some awesome thing
