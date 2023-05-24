@@ -1,0 +1,2 @@
+shbin_usage.sh $ echo some content[0m
+some content
