@@ -1,0 +1,1 @@
+https://github.com/alvarmaciel/pastebin/blob/main/alvarmaciel/my_snippet.md
