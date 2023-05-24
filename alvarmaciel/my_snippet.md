@@ -1,1 +1,0 @@
-https://alvarmaciel.github.io/pastebin/alvarmaciel/demo_3.py
